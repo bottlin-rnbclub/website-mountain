@@ -68,6 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# website-mountain
-# website-mountain-on-react
-# website-mountain
+# important
+## this project is loaded without codependencies, or rather without "node_modules" and therefore you need to load it, then run the project
+
+# Picture
+![Image alt](https://github.com/bottlin-rnbclub/website-mountain/blob/main/image%20for%20git/1.png)
+![Image alt](https://github.com/bottlin-rnbclub/website-mountain/blob/main/image%20for%20git/2.png)
+![Image alt](https://github.com/bottlin-rnbclub/website-mountain/blob/main/image%20for%20git/3.png)
+![Image alt](https://github.com/bottlin-rnbclub/website-mountain/blob/main/image%20for%20git/4.png)
+![Image alt](https://github.com/bottlin-rnbclub/website-mountain/blob/main/image%20for%20git/5.png)
+![Image alt](https://github.com/bottlin-rnbclub/website-mountain/blob/main/image%20for%20git/6.png)
+
