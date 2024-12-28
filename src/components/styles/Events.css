@@ -1,0 +1,81 @@
+.events{
+    gap: 30px;
+    padding: 0 165px;
+    margin: 0;
+    margin-top: 200px;
+}
+.ImageIcon{
+    height: 60px;
+    margin-top: -7px;
+}
+.text_in_widget{
+    margin-top: -5px;
+    margin-left: 30px;
+    font-family: "Poppins", sans-serif;
+    color: rgba(255,255,255,255);
+}
+.IconReact{
+    margin-top: 15px;
+    margin-left: 15px;
+    color: white;
+}
+.wid-get-line-centre{
+    font-family: "Poppins", sans-serif;
+    color: rgba(255,255,255,255);
+    margin-top: 450px;
+    margin-left: 300px;
+    border: 1.2px solid rgba(255, 255, 255, 0.4);
+    border-right: 1.2px solid rgba(255, 255, 255, 0.2);
+    border-left: 1.2px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1.2px solid rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+    padding: 20px;
+}
+.Sunday{
+    font-size: 24px;
+}
+.Time_frame{
+    display: flex;
+    font-size: 28px;
+    gap: 120px;
+    background-color: #11327B;
+    border-radius: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+}
+.AM{
+    margin-left: 5px;
+}
+.line{
+    border: 0,3px solid white;
+    opacity: 0.5;
+}
+.Distance, .Height{
+    font-size: 24px;
+}
+.big_size-text{
+    font-size: 40px;
+}
+.about-text-on-frame{
+    font-family: "Poppins", sans-serif;
+    margin-left: 185px;
+    margin-top: 350px;
+}
+.about{
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 24px;
+}
+.h1_frame_events{
+    color: rgba(255,255,255,1);
+    font-weight: 600;
+}
+.ease_text{
+    margin-top: 25px;
+    color: rgba(255,255,255,1);
+}
+.btn-click-blue{
+    margin-top: 25px;
+    color: #16F1FF;
+    font-weight: 500;
+}

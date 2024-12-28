@@ -1,0 +1,38 @@
+.row{
+    padding-top: 820px;
+
+}
+.title_main{
+    font-family: "Poppins", sans-serif;
+    margin-left: 120px;
+}
+.btn-main-screen{
+    margin-left: 120px;
+}
+.Entrance{
+    color: rgba(255,255,255,0.7);
+    font-size: 34px;
+}
+.Beuau{
+    font-size: 54px;
+    color: rgba(255,255,255,1);
+}
+.ask_text{
+    color: rgba(255,255,255,0.9);
+    font-weight: 300;
+}
+.btn-main-screen{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    width: 150px;
+    height: 10px;
+    margin-top: 40px;
+    border-radius: 10px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+    background-color: #fff;
+}

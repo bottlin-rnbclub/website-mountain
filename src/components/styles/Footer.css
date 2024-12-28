@@ -1,0 +1,73 @@
+  .footer {
+    font-family: "Poppins", sans-serif;
+    display: flex;
+    justify-content: space-between;
+    color: #ffffff;
+    padding: 300px 165px;
+    gap: 170px;
+    flex-wrap: wrap;
+  }
+  .footer-section {
+    flex: 1;
+    min-width: 150px;
+  }
+  .footer-section:first-child {
+    flex: 2;
+    max-width: 300px;
+  }
+  .footer-heading {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  .footer-heading:hover{
+    color: rgb(108, 223, 238);
+    transition: all 0.7s ease; 
+  }
+  .footer-text {
+    opacity: 0.7;
+    margin-top: 15px;
+    font-size: 0.9em;
+    line-height: 1.5;
+    max-width: 300px;
+  }
+  .text-logo-2{
+    display: inline;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: 8.5px;
+    margin-top: 2px;
+}
+.text-logo-2:hover{
+    color: rgb(108, 223, 238);
+    transition: all 0.7s ease; 
+}
+  .footer-icons {
+    display: flex;
+    gap: 35px;
+    margin-top: 30px;
+  }
+  .footer-icon {
+    font-size: 1.5em;
+    color: #ffffff;
+    transition: color 0.3s;
+  }
+  .footer-icon:hover {
+    color: #00aaff; /* Change color on hover */
+  }
+  .footer-list {
+    opacity: 0.7;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  .footer-list li {
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  .footer-list li:hover {
+    color: #00aaff; /* Change color on hover */
+  }
+  .line_footer{
+
+  }

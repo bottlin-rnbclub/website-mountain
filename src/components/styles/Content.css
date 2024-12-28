@@ -1,0 +1,64 @@
+.content-frame{
+    margin-top: 500px;
+    padding: 0 165px;   
+}
+.header_on_frame{
+    display: block ruby;
+}
+.forecast{
+    margin-left: 30px;
+    font-family: 'Cabinet Grotesk', sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+    color: rgba(255,255,255,0.8);
+}
+.three_days{
+    font-family: 'Cabinet Grotesk', sans-serif;
+    font-weight: 600;
+    background-color: #4CAF50;
+    border-radius: 50%;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+.weather_frame{
+    font-family: 'Cabinet Grotesk', sans-serif;
+    margin-top: 60px;
+    gap: 100px;
+    display: flex;
+}
+.image_text, .image_text2, .image_text3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text_weather{
+    display: flex;
+    font-weight: 600;
+    color: white;
+    font-size: 45px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.photo_image, .photo_image2, .photo_image3{
+    object-fit: cover;
+}
+.day_text {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    margin-top: 5px;
+    font-size: 35px;
+    color: white;
+}
+.aLotOfText{
+    margin-top: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: rgba(255,255,255,0.8);
+}

@@ -1,0 +1,9 @@
+.app{
+  background-image: url("./img/Beau\ Mountain.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 600vh;
+  height: auto; 
+}
+

@@ -1,0 +1,93 @@
+.today{
+  margin-top: 300px;
+}
+.text-today{
+    font-size: 65px;
+    font-family: 'Cabinet Grotesk', sans-serif;
+    font-weight: 600;
+    color: rgba(255,255,255,0.8);
+}
+.textandcloud{
+    margin-top: 20px;
+    display: inline-flex;
+}
+.text-p-today{
+    font-size: 45px;
+    color: rgba(255, 255, 255, 255);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+.text-weather-today{
+    font-size: 25px;
+    color:rgb(255, 255, 255, 0.7);
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+.cloud {
+  color: rgb(0, 255, 242);
+}
+.widget-hours-open{
+  margin-top: 200px;
+  background-color: #05121B;
+  border-radius: 15px;
+  color: white;
+  font-family: sans-serif;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  position: relative;
+}
+.widget-hours-open::before { /* Псевдоэлемент для тени */
+    content: "";
+    position: absolute;
+    top: 100%; /* 100% от высоты виджета */
+    left: 0;
+    width: 100%;
+    height: 10px;
+    background-color: #282c34; /* Цвет фона тени */
+    z-index: -1; /* Помещаем тень под виджет */
+    transform: translateY(5px); /* Сдвиг тени */
+    border-radius: 0 0 10px 10px; /* Закругление нижних углов */
+  }
+.header-open{
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  background-color: #11327B;
+  padding: 20px 90px;
+  border-radius: 10px 10px 0 0;
+}
+.content {
+    padding: 20px;
+  }
+  .time {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  .PM{
+    font-family: 'Cabinet Grotesk', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    margin-top: 20px;
+  }
+  .time span {
+    display: block;
+    text-align: left;
+  }
+  .line{
+    width: 100%;
+    height: 1px;
+    background-color: #ddd;
+    margin: 20px 0;
+  }
+  .see-schedule {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    display: flex;
+    justify-content: left;
+    font-size: 16px;
+  }
+  .see-schedule span {
+    display: inline-block;
+    padding: 5px 10px;
+  }
